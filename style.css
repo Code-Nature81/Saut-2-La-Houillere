@@ -1,0 +1,28 @@
+body{
+    background: url(CapDécouverte.jpg) no-repeat;
+    background-size: cover;
+  
+    height: 100vh;
+}
+
+iframe{
+    width: 100%;
+    height: 500px;
+    margin-top: 90px;
+}
+ header{
+     color: rgb(245, 238, 238);
+     font-size: 70px;
+     text-align: center;
+     margin-top: 30px;
+ }
+ @media only screen and (max-width: 767px){
+
+    iframe{
+        height: 250px;
+    }
+
+   
+
+
+ }
